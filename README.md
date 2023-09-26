@@ -39,22 +39,23 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/udoigwe/react-ts-tailwind-boilerplate.git
 
-a. Change the working directory:
+   a. Change the working directory:
 
-   ```bash
-   cd react-typescript-tailwind-boilerplate
+      ```bash
+      cd react-typescript-tailwind-boilerplate
 
-b. Install the project dependencies
+   b. Install the project dependencies
 
-   ```bash
-   npm install
+      ```bash
+      npm install
 
-   OR
+      OR
 
-   ```bash
-   yarn
+      ```bash
+      yarn
 
 ### Usage
+
 To start the development server and run the application, use the following command:
 
    ```bash
